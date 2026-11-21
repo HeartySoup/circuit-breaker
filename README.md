@@ -13,7 +13,7 @@ Built in Unity in 96 hours by a team of two. Theme: "Count Down".
 - Worked alongside SpicyHam, who created the art, audio, music and visual effects
 
 ## Reach
-10,000+ plays and downloads since release (itch.io analytics):
+10,000+ plays and downloads since release: **9,415 browser plays, 853 downloads, 15.3k page views** (itch.io analytics):
 
 ![itch.io analytics](analytics.png)
 
